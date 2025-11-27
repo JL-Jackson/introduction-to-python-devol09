@@ -22,13 +22,6 @@ additional_files:
   - name: README.md
   - name: contributing.md
   - name: requirements.txt
-  - name: .venv/Scripts/cli_exit_tools.exe
-    is_binary: true
-  - name: .venv/Scripts/get_gprof
-  - name: .venv/Scripts/undill
-  - name: .venv/Scripts/wrapt_timeout_decorator.exe
-    is_binary: true
-  - name: .venv/Scripts/get_objgraph
 mode: Study
 tags:
   - Beginner-friendly
